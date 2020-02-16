@@ -76,3 +76,7 @@ iframe {
     padding-top: 60px;
     color: white;
 }
+#contacts-modal-body {
+    color: #fff;
+    text-align: center;
+}
