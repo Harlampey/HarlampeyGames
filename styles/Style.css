@@ -70,11 +70,6 @@ iframe {
 }
 
 #about-me{
-    background-attachment: fixed;
-    width: 100%;
-    height: 100vh;
-    color: white;
-    font-size: 1.4em;*/
     background-color: #212121;
     padding-bottom: 40px;
 }
